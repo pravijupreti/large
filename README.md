@@ -13,7 +13,7 @@ Follow these steps to clone the repository, track large files with Git LFS, and 
 To get started, clone this repository to your local machine using the following command:
 
 ```bash
-git clone <"Repository URL>
+git clone <"Repository URL">
 2. Track Large Files with Git LFS
 Git LFS is used to handle large files in the repository. You need to track the large files before committing them.
 
